@@ -22,3 +22,5 @@ if(resultado > 100){
 } else{
     alert("segui entrenando!")
 }
+
+
